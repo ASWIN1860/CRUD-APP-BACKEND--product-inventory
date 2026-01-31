@@ -1,0 +1,16 @@
+{
+  "productData": [
+    {
+      "name": "iphone 12 pro max",
+      "price": "1000",
+      "stock": "1",
+      "id": "cd56"
+    },
+    {
+      "name": "Samsung S23 Ultra",
+      "price": "2345",
+      "stock": "2",
+      "id": "123a"
+    }
+  ]
+}
